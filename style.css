@@ -4,3 +4,33 @@
 {
         background-color: rgb(185, 133, 54);
 }
+ div {
+  background-color: rgb(54, 34, 7);
+  margin: 0px;
+  height: 160%;
+  color: rgb(250, 228, 194);
+  text-align: center;
+  font-size: 300%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+    
+  color:  rgb(17, 16, 6);
+  text-align: left;
+  font-size: 180%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height:1.5em;
+}
+
+li {color:  rgb(17, 16, 6);
+  text-align: left;
+  font-size: 160%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height:1.5em;}
+        
+        a {color:  rgb(17, 16, 6);
+  text-align: left;
+  font-size: 130%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height:1.5em;}
