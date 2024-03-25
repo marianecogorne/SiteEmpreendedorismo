@@ -2,7 +2,7 @@
 
  body 
 {
-        background-color: rgb(185, 133, 54);
+        background-color: red ;
   background-image: linear-gradient(red, yellow);
 }
  div {
