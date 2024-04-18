@@ -6,6 +6,15 @@
   background-image: linear-gradient(to right, red, yellow);
   text-align:center;
 }
+div {
+    background-color: black;
+  margin: 0px;
+  height: 160%;
+  color: rgb(255,255,255);
+  text-align: center;
+  font-size: 300%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
 p {
     
   color:  rgb(0, 0, 0);
